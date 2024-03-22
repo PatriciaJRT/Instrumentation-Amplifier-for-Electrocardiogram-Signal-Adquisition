@@ -35,11 +35,10 @@ The designed instrumentation amplifier extracts very low differencial mode signa
 
 
 ## External hardware
-1 PCB 
-1 Balum 
-1 Keysight-E5061B ENA vector network analyzer
-3 Female-Female BNC cable. 
-1 Female-Female-Female BNC T-adapter 
-1 Keithly 2231A power supply
-1 Agilent 34401A digital multimeter 
-
+- 1 PCB
+- 1 Balum
+- 1 Keysight-E5061B ENA vector network analyzer
+- 3 Female-Female BNC cable.
+- 1 Female-Female-Female BNC T-adapter
+- 1 Keithly 2231A power supply
+- 1 Agilent 34401A digital multimeter 
