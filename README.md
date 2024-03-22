@@ -4,7 +4,7 @@
 
 - [Read the documentation for project](docs/info.md)
 
-[tt_um_Ckt](docs/tt_um_CktA_InstAmp.jpg)
+![tt_um_Ckt](docs/tt_um_CktA_InstAmp.jpg)
 
 ## What is Tiny Tapeout?
 
