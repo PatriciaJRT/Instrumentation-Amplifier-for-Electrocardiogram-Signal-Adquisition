@@ -1,8 +1,10 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg)
 
-# Tiny Tapeout Analog Project Template
+# Instrumentation Amplifier for Electrocardiogram Signal Adquisition
 
 - [Read the documentation for project](docs/info.md)
+
+[tt_um_Ckt](docs/tt_um_CktA_InstAmp.jpg)
 
 ## What is Tiny Tapeout?
 
