@@ -12,7 +12,7 @@ The designed instrumentation amplifier extracts very low differencial mode signa
 
 ## How to test
 
-1. Apply a DC level equals to vdd = +0.9V and vss = -0.9V.
+1. Apply a DC level equals to vdd = 1.8V and vss = 0V.
 2. Sinks a DC current of 20 uA into the vbn node.
 3. Set the following bits to Sel_26dB = 0 and Sel_42dB = 0.
 4. Apply a 1 mV differential signal into Vip and Vin analog ports using a balum.
