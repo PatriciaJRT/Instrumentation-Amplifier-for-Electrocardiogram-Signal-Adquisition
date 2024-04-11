@@ -6,6 +6,6 @@
 
 ![tt_um_Ckt](docs/tt_um_CktA_InstAmp.jpg)
 
-## About the Instrumentation Amplifier
-
-The amplifier gatters the electrical signal coming from the skin/muscles over the heart.
+## How it works
+An Instrumentation Amplifier (IA) is a circuit that can extract low-level low-frequency differential signals that are embedded in high-level common noise signals. This IA’s ability is due to the value of the Common Mode Rejection Ratio (CMRR) is very high; the CMRR must be grater than 120 dB.  So that, IAs are widely used in biomedical applications, specifically as an analog front-end for electrocardiogram (ECG) data acquisition.
+Figure 1 shows how the designed IA must be connected as a 3 leads configuration to a human patient to obtain the unfiltered version of the ECG.
