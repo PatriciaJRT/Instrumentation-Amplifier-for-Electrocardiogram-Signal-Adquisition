@@ -13,3 +13,13 @@ Figure 1 shows how the designed IA must be connected as a 3 leads configuration 
 
 ## How it works
 Figure 2 shows the top-level bock diagram of the IA with all the inputs an outputs that can be accessed as well as all the hardware thar is needed to perform the CMRR measurements. The purpose of each pin is described as follows:
+
+
+## External hardware
+- 1 PCB
+- 1 Balum
+- 1 Keysight-E5061B ENA vector network analyzer
+- 3 Female-Female BNC cable.
+- 1 Female-Female-Female BNC T-adapter
+- 1 Keithly 2231A power supply
+- 1 Agilent 34401A digital multimeter 
