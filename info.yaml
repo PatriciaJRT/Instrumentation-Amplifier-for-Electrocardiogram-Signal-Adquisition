@@ -49,7 +49,9 @@ pinout:
   uio[6]: ""
   uio[7]: ""
 
-  # Analog pins - you can add more if you use them, up to 8
+  # Analog pins - you can add more if you use them, up to 6.
+  # Keep only the "ua" pins you are actually using, and *delete* any unused "ua" pins.
+  # The first pins is always ua[0], and the pin numbers must be sequential.
   ua[0]: "vo"
   ua[1]: "vbn"
   ua[2]: "AGND"
@@ -57,7 +59,6 @@ pinout:
   ua[4]: "VirGND_Out"
   ua[5]: "Vin"
   ua[6]: "Vip"
-  ua[7]: " "
   
 # Do not change!
 yaml_version: 6
