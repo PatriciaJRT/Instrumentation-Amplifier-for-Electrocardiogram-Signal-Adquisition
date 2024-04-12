@@ -29,6 +29,7 @@ After assembling the setup in Figure 1, the ENA must be configured to report the
 Figure 3 shows the interconnection of the circuit with the frame of the chip and Figure 4 shows the simulation results for reference to the behavior of the circuit.
 
 ![Figure 3: Frame to IA connections.](docs/latin_tt_um_CktA_page-0001.jpg)
+Figure 3: Frame to IA connections
 
 ![Figure 4. Simulation results.](docs/tt_um_CktA_InstAmp.jpg)
 
