@@ -31,6 +31,14 @@ Figure 3 shows the interconnection of the circuit with the frame of the chip and
 ![Figure 3: Frame to IA connections.](docs/latin_tt_um_CktA_page-0001.jpg)
 Figure 3: Frame to IA connections
 
+
+<p align="center">
+  <img src="docs/latin_tt_um_CktA_page-0001.jpg" alt="Figure 3: Frame to IA connections">
+</p>
+<p align="center">
+  <em>Figure 3: Frame to IA connections</em>
+</p>
+
 ![Figure 4. Simulation results.](docs/tt_um_CktA_InstAmp.jpg)
 
 
